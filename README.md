@@ -4,7 +4,7 @@
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - I'm Charangan Vasantharajan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/charangan)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charangan/)
 - :pencil2:  I blog in : [Charangan Blogs](https://charangan.medium.com/)
 
 ![Charangan's github stats](https://github-readme-stats.vercel.app/api?username=chaarangan&show_icons=true&theme=radical)
