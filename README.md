@@ -29,6 +29,17 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Tesseract OCR With JNA Wrapper](https://medium.com/swlh/tesseract-ocr-with-java-jna-8b046dafcc85)
+- [Send an email using Nodemailer and Gmail in Node.js Express.js](https://charangan.medium.com/send-an-email-using-nodemailer-and-gmail-in-node-js-express-js-34523d5e0aa4)
+- [THINGS TO CONSIDER WHEN CHOOSING A CAREER PATH IN IT](https://charangan.medium.com/things-to-consider-when-choosing-a-career-path-in-it-d82b6ad9b3c7)
+- [The FAQ in Bellman-Ford algorithm, Dijkstra’s Algorithm, and Dynamic Programming
+](https://charangan.medium.com/the-faq-in-bellman-ford-algorithm-dijkstras-algorithm-and-dynamic-programming-a1c5f4734524)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://charangan.medium.com/)
 
 
 [blog]: https://charangan.medium.com/
