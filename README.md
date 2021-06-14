@@ -1,4 +1,4 @@
-### Hi there, I'm Charangan Vasantharajan 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+### Hi there, I'm Charangan Vasantharajan 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=chaarangan&color=yellow)</div>
 
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
