@@ -4,8 +4,8 @@
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - I'm Charangan Vasantharajan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charangan/)
-- :pencil2:  I blog in : [Charangan Blogs](https://charangan.medium.com/)
+- 🌱 I’m currently exploring in Natural Language Processing, Computer Vision and Artificial intelligence.
+-  ⚡ I love to play football, badminton and love reading.
 
 ### Connect with me
 
