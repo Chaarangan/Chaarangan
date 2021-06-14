@@ -7,6 +7,14 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/charangan/)
 - :pencil2:  I blog in : [Charangan Blogs](https://charangan.medium.com/)
 
+### Connect with me
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog](https://charangan.medium.com/)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="stackoverflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />][stackoverflow]
+<br />
+<br />
+
 ![Charangan's github stats](https://github-readme-stats.vercel.app/api?username=chaarangan&show_icons=true&theme=radical)
 
 
