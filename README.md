@@ -3,7 +3,7 @@
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I'm Charangan Vasantharajan, An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
+- An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
 - 🌱 I’m currently exploring in Natural Language Processing, Computer Vision and Artificial intelligence.
 -  ⚡ I love to play football, badminton and love reading.
 
