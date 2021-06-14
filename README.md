@@ -41,6 +41,17 @@
 
 ➡️ [more blog posts...](https://charangan.medium.com/)
 
+### :zap: GitHub Stats
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.chaarangan.vercel.app/api/top-langs/?username=chaarangan&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.chaarangan.vercel.app/api?username=chaarangan&hide=html&layout=compact&theme=buefy"/></td>
+    </tr>   
+  </table>
+</center>
+
 
 [blog]: https://charangan.medium.com/
 [linkedin]: https://www.linkedin.com/in/charangan/
