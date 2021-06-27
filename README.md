@@ -8,14 +8,9 @@
 -  ⚡ I love to play football, badminton and love reading.
 
 ### Connect with me
-<p align="center">
-	<a href="https://twitter.com/chaarangan"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/charangan/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="hhttps://charangan.medium.com/"><img src="imgs/medium.svg" alt="Medium"></a>
-	<a href="https://scholar.google.com/citations?hl=en&user=-tDp1vUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
-</p>
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/citations-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 <br />
 <br />
 
