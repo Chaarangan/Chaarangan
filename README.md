@@ -4,7 +4,7 @@
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - An Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
-- 🌱 I’m currently exploring in Natural Language Processing, Computer Vision and Artificial intelligence.
+- 🌱 I’m currently exploring in Natural Language Processing, Machine Learning and Deep Learning.
 -  ⚡ I love to play football, badminton and love reading.
 
 ### Connect with me
