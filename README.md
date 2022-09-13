@@ -53,11 +53,12 @@
         <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chaarangan" /></td>
         <td><img align="left" src="https://github-profile-trophy.vercel.app/?username=chaarangan" /></td>
     </tr> 
+    <tr>
+        <td><img align="left" src="https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/overview.svg" /></td>
+        <td><img align="left" src="https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/languages.svg" /></td>
+    </tr> 
   </table>
 </center>
-
-![](https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/languages.svg)
 
 
 [blog]: https://charangan.medium.com/
