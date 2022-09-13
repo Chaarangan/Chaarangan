@@ -46,8 +46,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api/top-langs/?username=chaarangan&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.ereshzealous.vercel.app/api?username=chaarangan&hide=html&layout=compact&theme=buefy"/></td>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaarangan&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=chaarangan&hide=html&layout=compact&theme=buefy"/></td>
     </tr> 
     <tr>
         <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chaarangan" /></td>
