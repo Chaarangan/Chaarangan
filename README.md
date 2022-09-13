@@ -56,6 +56,9 @@
   </table>
 </center>
 
+![](https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/chaarangan/github-stats-transparent/output/generated/languages.svg)
+
 
 [blog]: https://charangan.medium.com/
 [linkedin]: https://www.linkedin.com/in/charangan/
