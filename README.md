@@ -20,8 +20,8 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
-        <td><img width="495px" align="left" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only"/></td>
+        <td><img width="400px" align="left" src="https://raw.githubusercontent.com/chaarangan/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
+        <td><img width="495px" align="left" src="https://raw.githubusercontent.com/chaarangan/github-stats/master/generated/languages.svg#gh-light-mode-only"/></td>
     </tr> 
   </table>
 </center>
