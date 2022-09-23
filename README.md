@@ -3,8 +3,9 @@
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- Research Intern @ Nanyang Technological University, Signapore and also an Undergraduate, Department of Computer Science and Engineering, University of Moratuwa.
-- 🌱 I’m currently exploring in Natural Language Processing, Machine Learning and Deep Learning.
+- Currently, working for a data science team @ [Simplyfai Inc](https://www.simplyfai.com), Palo Alto California. Ex. Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Signapore 
+- Undergraduate, Department of Computer Science and Engineering, [University of Moratuwa](https://uom.lk).
+- 🌱 I’m currently exploring in Natural Language Processing, Data Science and Machine Learning.
 -  ⚡ I love to play football, badminton and love reading.
 
 ### Connect with me
