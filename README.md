@@ -50,10 +50,6 @@
         <td><img width="400px" align="left" src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
         <td><img width="495px" align="left" src="https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only"/></td>
     </tr> 
-    <tr>
-        <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chaarangan" /></td>
-        <td><img align="left" src="https://github-profile-trophy.vercel.app/?username=chaarangan" /></td>
-    </tr> 
   </table>
 </center>
 
