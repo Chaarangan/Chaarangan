@@ -17,14 +17,14 @@
 
 ### :zap: GitHub Stats
 
-<center>
+<div align="center">
   <table>
     <tr>
         <td><img align="left" src="https://github.com/Chaarangan/github-stats/blob/master/generated/languages.svg" /></td>
         <td><img align="left" src="https://github.com/Chaarangan/github-stats/blob/master/generated/overview.svg"/></td>
     </tr> 
   </table>
-</center>
+</div>
 
 
 [blog]: https://charangan.medium.com/
