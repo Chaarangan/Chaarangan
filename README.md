@@ -47,7 +47,7 @@
 <center>
   <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaarangan&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="400px" align="left" src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only" /></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=chaarangan&hide=html&layout=compact&theme=buefy"/></td>
     </tr> 
     <tr>
