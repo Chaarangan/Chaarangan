@@ -3,10 +3,10 @@
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- Currently, working for a data science team @ [Simplyfai Inc](https://www.simplyfai.com), Palo Alto California. Ex-Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Signapore 
-- Undergraduate, Department of Computer Science and Engineering, [University of Moratuwa](https://uom.lk).
-- 🌱 I’m currently exploring in Natural Language Processing, Deep Learning and Machine Learning.
--  ⚡ I love to play football, badminton and love reading.
+- Currently, working as a Teaching Assistant @ [University of Moratuwa](https://www.uom.lk), Colombo. Former Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Singapore 
+- Graduate of Computer Science and Engineering, [University of Moratuwa](https://uom.lk).
+- 🌱 I’m currently exploring Natural Language Processing, Deep Learning, and Machine Learning.
+-  ⚡ I love to play football, badminton, and love reading.
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
