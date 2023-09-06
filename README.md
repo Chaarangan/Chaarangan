@@ -3,7 +3,7 @@
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I'm an incoming MASc Student @ [McMaster University](https://www.mcmaster.ca/), Canada. Former Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Singapore 
+- I'm an MASc Student @ [McMaster University](https://www.mcmaster.ca/), Canada. Former Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Singapore 
 - Graduate of Computer Science and Engineering, [University of Moratuwa](https://uom.lk).
 - 🌱 I’m currently exploring Machine Learning, Computational Linguistics, and Data Science.
 -  ⚡ I love to play football, badminton, and love reading.
