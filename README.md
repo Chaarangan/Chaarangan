@@ -3,10 +3,11 @@
 <!--
 **charangan/charangan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- I'm an MASc Student @ [McMaster University](https://www.mcmaster.ca/), Canada. Former Research Intern @ [Nanyang Technological University](https://www.ntu.edu.sg), Singapore 
-- Graduate of Computer Science and Engineering, [University of Moratuwa](https://uom.lk).
-- 🌱 I’m currently exploring Machine Learning, Computational Linguistics, and Data Science.
--  ⚡ I love to play football, badminton, and love reading.
+- 👨‍💻 **Engineering Manager** @ [Iterate.ai](https://www.iterate.ai), leading innovative AI projects and managing cross-functional engineering teams.  
+- 🎓 **MASc Candidate** @ [McMaster University](https://www.mcmaster.ca/), Canada. Former **Research Intern** @ [Nanyang Technological University](https://www.ntu.edu.sg), Singapore.  
+- 🎓 Graduate of **Computer Science and Engineering** @ [University of Moratuwa](https://uom.lk).  
+- 🌱 Passionate about **Machine Learning**, **Computational Linguistics**, and **Enterprise AI Solutions**.  
+- ⚡ Outside of work, I enjoy playing **football** and **badminton**, and I love **reading**.  
 
 ### Connect with me
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
