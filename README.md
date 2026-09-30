@@ -1,55 +1,46 @@
+<div align="center">
+
 # Hi, I'm Charangan
 
-I am an Engineering Manager at [Iterate.ai](https://www.iterate.ai/), where I lead a 12-member
-cross-functional team building Generate, our enterprise AI platform. Generate runs as
-multi-tenant SaaS, and it also installs air-gapped inside regulated industries. It is the same
-system in both places, which is most of what makes it hard. We build it alongside IBM, NetApp,
-Intel, AMD, and HP.
+**Engineering Manager at [Iterate.ai](https://www.iterate.ai/)** · I lead the 12-member team building Generate, an enterprise AI platform
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-charangan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charangan/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-tDp1vUAAAAJ) [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Charangan-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Charangan) [![Website](https://img.shields.io/badge/Website-chaarangan.github.io-222?logo=githubpages)](https://chaarangan.github.io)
+
+</div>
+
+Generate runs as multi-tenant SaaS and also installs air-gapped inside regulated industries, as one system in both places. We build it alongside IBM, NetApp, Intel, AMD, and HP. It has won AI Product of the Year from both Pinnacle and TMC, and put Iterate.ai on the CRN AI 100.
 
 ## What I work on
 
-- RAG, multi-agent orchestration on LangGraph, and document intelligence at production scale.
-  We get 94% extraction accuracy on the documents that break naive RAG.
-- Multi-cloud, on-prem, and edge deployment. That means AWS and IBM Cloud, on-prem racks, and
-  quantized models (GGUF, INT8/FP16) running on Intel, AMD, and NVIDIA. Private document search
-  runs entirely local on an Intel AI PC.
-- An event-driven backend on Kafka, FastAPI, and Kubernetes. It holds 99.8% uptime at a peak of
-  50,000+ requests/second, observed through OpenTelemetry and Prometheus/Grafana.
-- Tenant isolation and multi-tenant security. SSO identities resolve to POSIX UID/GID, so vector
-  search is permission-filtered before it runs, and model-generated code executes sandboxed
-  under gVisor or Kata.
-- Engineering leadership. I do hiring, mentorship, roadmap, and partnership engineering. The
-  team has grown from 6 to 12, including 2 tech leads and 2 project managers, and I have
-  promoted engineers into senior roles.
+- **RAG and multi-agent orchestration** on LangGraph, with 94% extraction accuracy on documents that break naive RAG
+- **Multi-cloud, on-prem, and edge deployment**, including quantized models running fully local on an Intel AI PC
+- **Event-driven backend** on Kafka, FastAPI, and Kubernetes, holding 99.8% uptime at 50,000+ requests/second
+- **Tenant isolation**, with permission-filtered vector search and sandboxed code execution
+- **Engineering leadership**: hiring, mentorship, and roadmap for a team grown from 6 to 12
 
-## About me
+<details>
+<summary>More on the platform work</summary>
 
-Before management I spent years as a researcher and ML engineer. I hold an MASc in Electrical
-& Computer Engineering from McMaster University, where my thesis was a retrieval-focused
-fine-tuning strategy for scientific documents, and a BSc (Hons.) in Computer Science &
-Engineering from the University of Moratuwa.
+- Deployment targets are AWS and IBM Cloud, on-prem racks, and quantized models (GGUF, INT8/FP16) on Intel, AMD, and NVIDIA.
+- The backend is observed through OpenTelemetry and Prometheus/Grafana.
+- SSO identities resolve to POSIX UID/GID, so vector search is permission-filtered before it runs. Model-generated code executes under gVisor or Kata.
+- The team includes 2 tech leads and 2 project managers, and I have promoted engineers into senior roles.
 
-A few things from that stretch are still in use:
+</details>
 
-- [MedBERT](https://huggingface.co/Charangan/MedBERT), a biomedical language model I
-  pre-trained, has passed 569,000+ downloads.
-- [NERP](https://github.com/Chaarangan/NERP), an open-source Python framework for
-  transformer-based named entity recognition, has 71,000+ PyPI downloads.
-- I co-invented 4 filed US patents in document extraction and multi-agent AI workflows.
-- My published research has 248+ citations across NLP, biomedical NER, and low-resource
-  languages (Tamil and Sinhala).
-- Edge AI work shipped to 10,000+ Intel AI PCs through the Intel Software Advantage Program,
-  and was demoed at the Intel Vision 2024 keynote.
+## Open source
 
-Generate has since won AI Product of the Year from both Pinnacle and TMC, and it put Iterate.ai
-on the CRN AI 100 as a top-20 hottest AI software company.
+| Project | What it is | Traction |
+|---|---|---|
+| [Stepgate](https://github.com/Chaarangan/stepgate) | MCP server that shows an agent one step at a time and moves on only when mechanical checks pass | [![Stars](https://img.shields.io/github/stars/Chaarangan/stepgate?style=flat)](https://github.com/Chaarangan/stepgate/stargazers) [![Forks](https://img.shields.io/github/forks/Chaarangan/stepgate?style=flat)](https://github.com/Chaarangan/stepgate/forks) |
+| [MedBERT](https://huggingface.co/Charangan/MedBERT) | Biomedical language model for named entity recognition | 569,000+ downloads |
+| [NERP](https://github.com/Chaarangan/NERP) | Python framework for transformer-based named entity recognition | [![PyPI downloads](https://static.pepy.tech/badge/nerp)](https://pepy.tech/project/nerp) |
 
-## Elsewhere
+## Research
 
-Happy to talk about applied AI, RAG at scale, edge and air-gapped deployment, or building and
-leading engineering teams.
+- MASc in Electrical & Computer Engineering, McMaster University, and BSc (Hons.) in Computer Science & Engineering, University of Moratuwa
+- 254+ citations across NLP, biomedical NER, and low-resource languages (Tamil and Sinhala)
+- Co-inventor on 4 filed US patents in document extraction and multi-agent AI workflows
+- Edge AI work shipped to 10,000+ Intel AI PCs and was demoed at the Intel Vision 2024 keynote
 
-- [LinkedIn](https://www.linkedin.com/in/charangan/)
-- [Google Scholar](https://scholar.google.com/citations?user=-tDp1vUAAAAJ)
-- [Hugging Face](https://huggingface.co/Charangan)
-- [chaarangan.github.io](https://chaarangan.github.io)
+Happy to talk about applied AI, RAG at scale, edge and air-gapped deployment, or building engineering teams.
