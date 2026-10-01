@@ -33,7 +33,7 @@ Generate runs as multi-tenant SaaS and also installs air-gapped inside regulated
 | Project | What it is | Traction |
 |---|---|---|
 | [Stepgate](https://github.com/Chaarangan/stepgate) | MCP server that shows an agent one step at a time and moves on only when mechanical checks pass | [![Stars](https://img.shields.io/github/stars/Chaarangan/stepgate?style=flat)](https://github.com/Chaarangan/stepgate/stargazers) [![Forks](https://img.shields.io/github/forks/Chaarangan/stepgate?style=flat)](https://github.com/Chaarangan/stepgate/forks) [![npm downloads](https://img.shields.io/npm/d18m/stepgate?style=flat)](https://www.npmjs.com/package/stepgate) |
-| [MedBERT](https://huggingface.co/Charangan/MedBERT) | Biomedical language model for named entity recognition | 569,000+ downloads |
+| [MedBERT](https://huggingface.co/Charangan/MedBERT) | Biomedical language model for named entity recognition | [![Hugging Face downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FCharangan%2FMedBERT%3Fexpand%3DdownloadsAllTime&query=%24.downloadsAllTime&label=downloads&style=flat)](https://huggingface.co/Charangan/MedBERT) |
 | [NERP](https://github.com/Chaarangan/NERP) | Python framework for transformer-based named entity recognition | [![PyPI downloads](https://static.pepy.tech/badge/nerp)](https://pepy.tech/project/nerp) |
 
 ## Research
